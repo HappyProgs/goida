@@ -1,3 +1,4 @@
 test1;test
 admin2;admin
 123;12
+easy12;easy
