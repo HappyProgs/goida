@@ -17,9 +17,8 @@ siskipiski@CellCitizen;siskipiski@CellCitizen;1;0;-c14ac3d
 Lol100;Lol100;1;0;6325b121
 Andr;Andr;1;0;-455047ad
 AndroidHack;AndroidHack;1;0;-499f13c9
-DevvTest;DevvTest;99;0;-c14ac3d
+DevvTest;DevvTest;1;0;3ccc92d4
 KDS8dsjadsl9;KDS8dsjadsl;1;0;-c14ac3d
-DevvTest12;DevvTest;1;0;-14c23da2
 kk;kk;1;0;-14c23da2
 siskipiski;siskipiski;1;0;-54438dba
 mishapon72hao;mishapon72hao;1;0;-54438bda
