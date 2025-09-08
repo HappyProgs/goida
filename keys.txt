@@ -9,3 +9,4 @@ Matv;Matv;1;0;-dc7a9a3;6d
 Haudoq1;Haudoq1;1;0;-dc7a9a3;6d
 GKc27ZsUYQ;GKc27ZsUY;1;0;1848f7dc
 Bela;Bela;1;0;-dc7a9a3;1year
+Jopa;Jopa;1;0;-dc7a9a3;1year
