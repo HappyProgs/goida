@@ -8,4 +8,4 @@ Andr;Andr;1;0;58421c59;1year
 Matv;Matv;1;0;-dc7a9a3;6d
 Haudoq1;Haudoq1;1;0;-dc7a9a3;1year
 Bela;Bela;1;0;-dc7a9a3;1year
-Jopa;Jopa1;1;0;-dc7a9a3;1year
+CotcikBestick;CotcikBestick;1;0;-dc7a9a3;6d
