@@ -9,3 +9,4 @@ Matv;Matv;1;0;-dc7a9a3;6d
 Haudoq1;Haudoq1;1;0;-dc7a9a3;1year
 Bela;Bela;1;0;-dc7a9a3;1year
 CotcikBestick;CotcikBestick;1;0;-dc7a9a3;6d
+Hasper1;Hasper1;1;0;-2b8c8eD8;6d
