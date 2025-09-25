@@ -1,6 +1,5 @@
 HappyProg;HappyProg;1;0;3ccc92d4;1h
 siskipiski;siskipiski;1;0;-7b8f13c8;1year
-diasndwja;diasndwja;1;0;-7b8f13c8;6
 Jajbdsan;Jajbdsan;1;0;4a4e870;6d
 @Mhyhb;@Mhyhb;1;0;-dd7a9a3;7d
 @Mhyhb1;@Mhyhb1;1;0;-dc7a9a3;7d
@@ -10,4 +9,4 @@ Haudoq1;Haudoq1;1;0;-dc7a9a3;1year
 Bela;Bela;1;0;-dc7a9a3;1year
 CotcikBestick;CotcikBestick;1;0;-dc7a9a3;6d
 Hasper1;Hasper1;1;0;-2b8c8eD8;7d
-Beli;Beli1;1;0;-c14ac3d
+Andr;Andr;1;0;1c4c5994;7d
